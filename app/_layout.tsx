@@ -7,7 +7,7 @@ import 'react-native-reanimated';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 // Import your global CSS file
-import "../global.css"
+//import "../global.css"
 
 import { useColorScheme } from '@/hooks/useColorScheme';
 
